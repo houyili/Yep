@@ -1,3 +1,3 @@
 Yep
 ===
-Hallo GitHut!
+Hallo GitHub!
